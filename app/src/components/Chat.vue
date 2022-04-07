@@ -4,7 +4,7 @@
     <button @click="sendMessage">Send</button>
     <hr>
     <!-- <ul ref="list"></ul> -->
-    <p v-for="m in messages" :key="m.id" class="message" :class="[m.id == socket.id ? 'own' : 'foreign']">{{m.id}}: {{ m.message }}</p>
+    <p v-for="m in messages" :key="m.id" class="message" :class="[m.id == socket.id ? 'own' : [m.id == 'admin' ? 'admin' : 'foreign']]">{{m.id != 'admin' ? m.username+': ' : ''}}{{ m.message }}</p>
   </div>
 </template>
 
@@ -59,5 +59,8 @@ export default {
 }
 .foreign{
     background-color: lightblue;
+}
+.admin{
+    font-style: italic;
 }
 </style>
