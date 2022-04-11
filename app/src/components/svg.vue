@@ -1,0 +1,504 @@
+<template>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="200 200 1720 880" style="enable-background:new 0 0 1920 1080; width:100vw; max-height:70vh;" xml:space="preserve">
+    <g>
+        <g>
+            <defs>
+                <rect id="SVGID_1_" width="1920" height="1080"/>
+            </defs>
+            <clipPath id="SVGID_2_">
+                <use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+            </clipPath>
+            <g class="st0">
+                <g>
+                    <defs>
+                        <rect id="SVGID_3_" x="-5" y="-5" width="1930" height="1090"/>
+                    </defs>
+                    <clipPath id="SVGID_4_">
+                        <use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+                    </clipPath>
+                    <g style="clip-path:url(#SVGID_4_);">
+                        
+                            <!-- <image style="overflow:visible;" width="4022" height="2272" xlink:href="556BA66E.jpg"  transform="matrix(0.48 0 0 0.48 -5.28 -5.28)"> -->
+                        <!-- </image> -->
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect class="st1" width="1920" height="1080"/>
+    </g>
+    <g>
+        <g>
+            <g>
+                <polygon class="st2" points="319.8,896.5 350.6,915.8 319.8,920.8 			"/>
+                <path d="M320.3,897.4l28.9,18.1l-28.9,4.6V897.4 M319.3,895.6v25.7l32.7-5.2L319.3,895.6L319.3,895.6z"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,495.7 647.1,548.5 412,329.8 483.2,338.4 			"/>
+                <polygon class="st2" points="647.1,495.7 647.1,548.5 412,329.8 483.2,338.4 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,548.5 647.1,598.7 339.4,321 412,329.8 			"/>
+                <polygon points="647.1,548.5 647.1,598.7 339.4,321 412,329.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,598.7 647.1,648.9 319.3,362.2 319.3,318.6 339.4,321 			"/>
+                <polygon class="st2" points="647.1,598.7 647.1,648.9 319.3,362.2 319.3,318.6 339.4,321 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,648.9 647.1,699.2 319.3,421.4 319.3,362.2 			"/>
+                <polygon points="647.1,648.9 647.1,699.2 319.3,421.4 319.3,362.2 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,699.2 647.1,749.4 319.3,480.7 319.3,421.4 			"/>
+                <polygon class="st2" points="647.1,699.2 647.1,749.4 319.3,480.7 319.3,421.4 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,749.4 647.1,799.6 319.3,540 319.3,480.7 			"/>
+                <polygon points="647.1,749.4 647.1,799.6 319.3,540 319.3,480.7 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,799.6 647.1,849.8 319.3,599.3 319.3,540 			"/>
+                <polygon class="st2" points="647.1,799.6 647.1,849.8 319.3,599.3 319.3,540 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,849.8 647.1,868.9 612.4,874.4 319.3,658.5 319.3,599.3 			"/>
+                <polygon points="647.1,849.8 647.1,868.9 612.4,874.4 319.3,658.5 319.3,599.3 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="612.4,874.4 553.5,883.9 319.3,717.8 319.3,658.5 			"/>
+                <polygon class="st2" points="612.4,874.4 553.5,883.9 319.3,717.8 319.3,658.5 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="553.5,883.9 490.8,893.9 319.3,777.1 319.3,717.8 			"/>
+                <polygon points="553.5,883.9 490.8,893.9 319.3,777.1 319.3,717.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="490.8,893.9 423.8,904.6 319.3,836.4 319.3,777.1 			"/>
+                <polygon class="st2" points="490.8,893.9 423.8,904.6 319.3,836.4 319.3,777.1 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="423.8,904.6 352,916.1 319.3,895.6 319.3,836.4 			"/>
+                <polygon points="423.8,904.6 352,916.1 319.3,895.6 319.3,836.4 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,358.3 647.1,395.3 605.7,353.3 			"/>
+                <polygon points="647.1,358.3 647.1,395.3 605.7,353.3 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,395.3 647.1,445.5 546.4,346.1 605.7,353.3 			"/>
+                <polygon class="st2" points="647.1,395.3 647.1,445.5 546.4,346.1 605.7,353.3 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="647.1,445.5 647.1,495.7 483.2,338.4 546.4,346.1 			"/>
+                <polygon points="647.1,445.5 647.1,495.7 483.2,338.4 546.4,346.1 			"/>
+            </g>
+        </g>
+        <radialGradient id="SVGID_5_" cx="484.6367" cy="619.3036" r="230.3811" gradientUnits="userSpaceOnUse">
+            <stop  offset="5.618000e-03" style="stop-color:#C4C6C8"/>
+            <stop  offset="0.2978" style="stop-color:#BCBEC0"/>
+            <stop  offset="0.6573" style="stop-color:#A7A9AC"/>
+            <stop  offset="1" style="stop-color:#9B9DA0"/>
+        </radialGradient>
+        <path class="st4" d="M619.4,864.7l-262.7,40.8c-14.9,2.3-27-7.7-27-22.4V356.4c0-14.7,12.2-25.2,27-23.4l262.7,30.6
+            c11.2,1.3,20.2,12.5,20.2,25.1v450.2C639.6,851.4,630.6,863,619.4,864.7z"/>
+        <path class="st5" d="M626.6,397.5c0,3.5-2.6,6.2-5.7,5.9c-3.2-0.3-5.7-3.4-5.7-7s2.6-6.2,5.7-5.9
+            C624.1,390.8,626.6,393.9,626.6,397.5z"/>
+        <path class="st5" d="M626.6,417c0,3.5-2.6,6.2-5.7,5.9c-3.2-0.3-5.7-3.4-5.7-6.9c0-3.6,2.6-6.2,5.7-5.9
+            C624.1,410.4,626.6,413.5,626.6,417z"/>
+        <path class="st5" d="M626.6,436.6c0,3.5-2.6,6.2-5.7,6c-3.2-0.2-5.7-3.3-5.7-6.9c0-3.6,2.6-6.3,5.7-6
+            C624.1,429.9,626.6,433,626.6,436.6z"/>
+        <path class="st5" d="M626.6,456.1c0,3.5-2.6,6.3-5.7,6.1c-3.2-0.2-5.7-3.3-5.7-6.8c0-3.6,2.6-6.3,5.7-6.1
+            C624.1,449.5,626.6,452.5,626.6,456.1z"/>
+        <path class="st5" d="M626.6,772.8c0,3.5-2.6,6.7-5.7,7c-3.2,0.3-5.7-2.3-5.7-5.8s2.6-6.7,5.7-7.1
+            C624.1,766.6,626.6,769.2,626.6,772.8z"/>
+        <path class="st5" d="M626.6,792.3c0,3.5-2.6,6.7-5.7,7.1c-3.2,0.4-5.7-2.2-5.7-5.8c0-3.6,2.6-6.8,5.7-7.1
+            C624.1,786.2,626.6,788.8,626.6,792.3z"/>
+        <path class="st5" d="M626.6,811.8c0,3.5-2.6,6.8-5.7,7.2c-3.2,0.4-5.7-2.1-5.7-5.7c0-3.6,2.6-6.8,5.7-7.2
+            C624.1,805.7,626.6,808.3,626.6,811.8z"/>
+        <path class="st5" d="M626.6,831.4c0,3.5-2.6,6.8-5.7,7.2c-3.2,0.4-5.7-2.1-5.7-5.7c0-3.6,2.6-6.8,5.7-7.2
+            C624.1,825.3,626.6,827.8,626.6,831.4z"/>
+        <path d="M382.5,629.1c0,5.7-4.7,10.5-10.5,10.7c-5.8,0.2-10.6-4.4-10.6-10.1c0-5.8,4.7-10.6,10.6-10.7
+            C377.8,618.8,382.5,623.4,382.5,629.1z"/>
+        <g>
+            
+                <!-- <image style="overflow:visible;opacity:0.76;" width="100" height="102" xlink:href="556BA672.png"  transform="matrix(1 0 0 1 455 234)">
+            </image> -->
+            <g>
+                <path class="st6" :style="[active ? {'fill': neighbours[0].color} : {'fill': 'grey'}]" d="M523.8,287.4c0,10.8-8.2,18.4-18.5,17c-10.4-1.5-18.9-11.6-18.9-22.6s8.5-18.6,18.9-16.9
+                    C515.5,266.5,523.8,276.6,523.8,287.4z"/>
+                <path class="st3" d="M523.8,287.4c0,10.8-8.2,18.4-18.5,17c-10.4-1.5-18.9-11.6-18.9-22.6s8.5-18.6,18.9-16.9
+                    C515.5,266.5,523.8,276.6,523.8,287.4z"/>
+            </g>
+        </g>
+        <path class="st7" d="M507.4,293.4c0,3.1-2.4,5.3-5.3,4.8c-2.9-0.4-5.3-3.3-5.3-6.4c0-3.1,2.4-5.3,5.3-4.8
+            C505,287.5,507.4,290.4,507.4,293.4z"/>
+    </g>
+    <g class="st8">
+        <g class="st9">
+            <g>
+                <polygon class="st2" points="2187.1,936 2187.1,911.9 2217.2,936 			"/>
+                <path d="M2187.6,912.9l28.2,22.6h-28.2V912.9 M2186.6,910.8v25.7h32.1L2186.6,910.8L2186.6,910.8z"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,496 2560.5,558.4 2280.1,333.8 2358,333.8 			"/>
+                <polygon class="st2" points="2560.5,496 2560.5,558.4 2280.1,333.8 2358,333.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,558.4 2560.5,617.6 2206.1,333.8 2280.1,333.8 			"/>
+                <polygon points="2560.5,558.4 2560.5,617.6 2206.1,333.8 2280.1,333.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,617.6 2560.5,676.9 2186.6,377.4 2186.6,333.8 2206.1,333.8 			"/>
+                <polygon class="st2" points="2560.5,617.6 2560.5,676.9 2186.6,377.4 2186.6,333.8 2206.1,333.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,676.9 2560.5,736.2 2186.6,436.6 2186.6,377.4 			"/>
+                <polygon points="2560.5,676.9 2560.5,736.2 2186.6,436.6 2186.6,377.4 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,736.2 2560.5,795.5 2186.6,495.9 2186.6,436.6 			"/>
+                <polygon class="st2" points="2560.5,736.2 2560.5,795.5 2186.6,495.9 2186.6,436.6 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,795.5 2560.5,854.7 2186.6,555.2 2186.6,495.9 			"/>
+                <polygon points="2560.5,795.5 2560.5,854.7 2186.6,555.2 2186.6,495.9 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,854.7 2560.5,914 2186.6,614.5 2186.6,555.2 			"/>
+                <polygon class="st2" points="2560.5,854.7 2560.5,914 2186.6,614.5 2186.6,555.2 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,914 2560.5,936.5 2514.7,936.5 2186.6,673.7 2186.6,614.5 			"/>
+                <polygon points="2560.5,914 2560.5,936.5 2514.7,936.5 2186.6,673.7 2186.6,614.5 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2514.7,936.5 2440.7,936.5 2186.6,733 2186.6,673.7 			"/>
+                <polygon class="st2" points="2514.7,936.5 2440.7,936.5 2186.6,733 2186.6,673.7 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2440.7,936.5 2366.7,936.5 2186.6,792.3 2186.6,733 			"/>
+                <polygon points="2440.7,936.5 2366.7,936.5 2186.6,792.3 2186.6,733 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2366.7,936.5 2292.7,936.5 2186.6,851.6 2186.6,792.3 			"/>
+                <polygon class="st2" points="2366.7,936.5 2292.7,936.5 2186.6,851.6 2186.6,792.3 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2292.7,936.5 2218.7,936.5 2186.6,910.8 2186.6,851.6 			"/>
+                <polygon points="2292.7,936.5 2218.7,936.5 2186.6,910.8 2186.6,851.6 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,333.8 2560.5,377.4 2506,333.8 			"/>
+                <polygon points="2560.5,333.8 2560.5,377.4 2506,333.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,377.4 2560.5,436.7 2432,333.8 2506,333.8 			"/>
+                <polygon class="st2" points="2560.5,377.4 2560.5,436.7 2432,333.8 2506,333.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="2560.5,436.7 2560.5,496 2358,333.8 2432,333.8 			"/>
+                <polygon points="2560.5,436.7 2560.5,496 2358,333.8 2432,333.8 			"/>
+            </g>
+        </g>
+        <path class="st9" d="M2523.8,926.5h-300.5c-14.8,0-26.7-12-26.7-26.7V370.5c0-14.8,12-26.7,26.7-26.7h300.5
+            c14.8,0,26.7,12,26.7,26.7v529.3C2550.5,914.6,2538.6,926.5,2523.8,926.5z"/>
+        <g class="st9">
+            <radialGradient id="SVGID_6_" cx="2381.0496" cy="635.1595" r="290.2526" gradientUnits="userSpaceOnUse">
+                <stop  offset="5.618000e-03" style="stop-color:#C4C6C8"/>
+                <stop  offset="0.2978" style="stop-color:#BCBEC0"/>
+                <stop  offset="0.6573" style="stop-color:#A7A9AC"/>
+                <stop  offset="1" style="stop-color:#9B9DA0"/>
+            </radialGradient>
+            <path class="st10" d="M2530.6,931.8l-286.3,76.1c-17.9,4.8-32.7-7-32.7-26.3v-693c0-19.3,14.8-31,32.7-26.3l286.3,76.1
+                c11.1,2.9,19.9,17.3,19.9,32v529.3C2550.5,914.6,2541.7,928.9,2530.6,931.8z"/>
+            <path class="st5" d="M2537.8,379.5c0,4.2-2.5,7-5.6,6.3c-3.1-0.7-5.7-4.7-5.7-8.9c0-4.2,2.6-7.1,5.7-6.3
+                C2535.2,371.3,2537.8,375.3,2537.8,379.5z"/>
+            <path class="st5" d="M2537.8,402.6c0,4.2-2.5,7.1-5.6,6.4c-3.1-0.6-5.7-4.6-5.7-8.8c0-4.2,2.6-7.1,5.7-6.4
+                C2535.2,394.4,2537.8,398.4,2537.8,402.6z"/>
+            <path class="st5" d="M2537.8,425.6c0,4.2-2.5,7.1-5.6,6.6c-3.1-0.6-5.7-4.5-5.7-8.7c0-4.2,2.6-7.2,5.7-6.5
+                C2535.2,417.6,2537.8,421.4,2537.8,425.6z"/>
+            <path class="st5" d="M2537.8,448.7c0,4.2-2.5,7.2-5.6,6.7c-3.1-0.5-5.7-4.4-5.7-8.6c0-4.2,2.6-7.2,5.7-6.7
+                C2535.2,440.7,2537.8,444.5,2537.8,448.7z"/>
+            <path class="st5" d="M2537.8,822.7c0,4.2-2.5,8-5.6,8.6c-3.1,0.6-5.7-2.4-5.7-6.7c0-4.2,2.6-8.1,5.7-8.6
+                C2535.2,815.5,2537.8,818.5,2537.8,822.7z"/>
+            <path class="st5" d="M2537.8,845.8c0,4.2-2.5,8.1-5.6,8.7c-3.1,0.6-5.7-2.3-5.7-6.5s2.6-8.1,5.7-8.7
+                C2535.2,838.6,2537.8,841.6,2537.8,845.8z"/>
+            <path class="st5" d="M2537.8,868.8c0,4.2-2.5,8.1-5.6,8.8c-3.1,0.7-5.7-2.2-5.7-6.4c0-4.2,2.6-8.2,5.7-8.8
+                C2535.2,861.8,2537.8,864.6,2537.8,868.8z"/>
+            <path class="st5" d="M2537.8,891.9c0,4.2-2.5,8.2-5.6,8.9c-3.1,0.7-5.7-2.1-5.7-6.3s2.6-8.2,5.7-8.9
+                C2535.2,884.9,2537.8,887.7,2537.8,891.9z"/>
+            <path d="M2274.9,648.5c0,7.4-5.5,13.5-12.3,13.6c-6.9,0.1-12.6-5.8-12.6-13.3c0-7.5,5.6-13.6,12.6-13.6
+                C2269.4,635.2,2274.9,641.1,2274.9,648.5z"/>
+        </g>
+        <g class="st9">
+            
+                <!-- <image style="overflow:visible;opacity:0.76;" width="105" height="105" xlink:href="556BA675.png"  transform="matrix(1 0 0 1 2331 219)">
+            </image> -->
+            <g>
+                <circle class="st6" :style="[active ? {'fill': neighbours[2].color} : {'fill': 'blue'}]" cx="2383.3" cy="271.3" r="21.6"/>
+                <circle class="st3" cx="2383.3" cy="271.3" r="21.6"/>
+            </g>
+        </g>
+        <circle class="st11" cx="2379.7" cy="281.3" r="6.1"/>
+    </g>
+    <g>
+        <g>
+            <g>
+                <polygon class="st2" points="1718.8,908.2 1749.6,888.9 1749.6,913.2 			"/>
+                <path d="M1749.1,889.8v22.7l-28.9-4.6L1749.1,889.8 M1750.1,888l-32.7,20.5l32.7,5.2V888L1750.1,888z"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,488.1 1422.3,540.9 1657.5,322.2 1586.3,330.8 			"/>
+                <polygon class="st2" points="1422.3,488.1 1422.3,540.9 1657.5,322.2 1586.3,330.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,540.9 1422.3,591.1 1730,313.4 1657.5,322.2 			"/>
+                <polygon points="1422.3,540.9 1422.3,591.1 1730,313.4 1657.5,322.2 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,591.1 1422.3,641.3 1750.1,354.6 1750.1,311 1730,313.4 			"/>
+                <polygon class="st2" points="1422.3,591.1 1422.3,641.3 1750.1,354.6 1750.1,311 1730,313.4 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,641.3 1422.3,691.6 1750.1,413.9 1750.1,354.6 			"/>
+                <polygon points="1422.3,641.3 1422.3,691.6 1750.1,413.9 1750.1,354.6 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,691.6 1422.3,741.8 1750.1,473.1 1750.1,413.9 			"/>
+                <polygon class="st2" points="1422.3,691.6 1422.3,741.8 1750.1,473.1 1750.1,413.9 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,741.8 1422.3,792 1750.1,532.4 1750.1,473.1 			"/>
+                <polygon points="1422.3,741.8 1422.3,792 1750.1,532.4 1750.1,473.1 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,792 1422.3,842.2 1750.1,591.7 1750.1,532.4 			"/>
+                <polygon class="st2" points="1422.3,792 1422.3,842.2 1750.1,591.7 1750.1,532.4 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,842.2 1422.3,861.3 1457,866.8 1750.1,650.9 1750.1,591.7 			"/>
+                <polygon points="1422.3,842.2 1422.3,861.3 1457,866.8 1750.1,650.9 1750.1,591.7 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1457,866.8 1515.9,876.3 1750.1,710.2 1750.1,650.9 			"/>
+                <polygon class="st2" points="1457,866.8 1515.9,876.3 1750.1,710.2 1750.1,650.9 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1515.9,876.3 1578.6,886.3 1750.1,769.5 1750.1,710.2 			"/>
+                <polygon points="1515.9,876.3 1578.6,886.3 1750.1,769.5 1750.1,710.2 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1578.6,886.3 1645.6,897 1750.1,828.8 1750.1,769.5 			"/>
+                <polygon class="st2" points="1578.6,886.3 1645.6,897 1750.1,828.8 1750.1,769.5 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1645.6,897 1717.4,908.5 1750.1,888 1750.1,828.8 			"/>
+                <polygon points="1645.6,897 1717.4,908.5 1750.1,888 1750.1,828.8 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,350.7 1422.3,387.7 1463.7,345.7 			"/>
+                <polygon points="1422.3,350.7 1422.3,387.7 1463.7,345.7 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,387.7 1422.3,437.9 1523,338.5 1463.7,345.7 			"/>
+                <polygon class="st2" points="1422.3,387.7 1422.3,437.9 1523,338.5 1463.7,345.7 			"/>
+            </g>
+            <g>
+                <polygon class="st3" points="1422.3,437.9 1422.3,488.1 1586.3,330.8 1523,338.5 			"/>
+                <polygon points="1422.3,437.9 1422.3,488.1 1586.3,330.8 1523,338.5 			"/>
+            </g>
+        </g>
+        
+            <radialGradient id="SVGID_7_" cx="1737.7377" cy="611.7064" r="230.3811" gradientTransform="matrix(-1 0 0 1 3322.5107 0)" gradientUnits="userSpaceOnUse">
+            <stop  offset="5.618000e-03" style="stop-color:#C4C6C8"/>
+            <stop  offset="0.2978" style="stop-color:#BCBEC0"/>
+            <stop  offset="0.6573" style="stop-color:#A7A9AC"/>
+            <stop  offset="1" style="stop-color:#9B9DA0"/>
+        </radialGradient>
+        <path class="st12" d="M1450,857.1l262.7,40.8c14.9,2.3,27-7.7,27-22.4V348.8c0-14.7-12.2-25.2-27-23.4L1450,355.9
+            c-11.2,1.3-20.2,12.5-20.2,25.1v450.2C1429.8,843.8,1438.8,855.4,1450,857.1z"/>
+        <path class="st5" d="M1442.8,389.9c0,3.5,2.6,6.2,5.7,5.9c3.2-0.3,5.7-3.4,5.7-7s-2.6-6.2-5.7-5.9
+            C1445.3,383.2,1442.8,386.3,1442.8,389.9z"/>
+        <path class="st5" d="M1442.8,409.4c0,3.5,2.6,6.2,5.7,5.9c3.2-0.3,5.7-3.4,5.7-6.9c0-3.6-2.6-6.2-5.7-5.9
+            C1445.3,402.8,1442.8,405.9,1442.8,409.4z"/>
+        <path class="st5" d="M1442.8,429c0,3.5,2.6,6.2,5.7,6c3.2-0.2,5.7-3.3,5.7-6.9c0-3.6-2.6-6.3-5.7-6
+            C1445.3,422.3,1442.8,425.4,1442.8,429z"/>
+        <path class="st5" d="M1442.8,448.5c0,3.5,2.6,6.3,5.7,6.1c3.2-0.2,5.7-3.3,5.7-6.8s-2.6-6.3-5.7-6.1
+            C1445.3,441.9,1442.8,445,1442.8,448.5z"/>
+        <path class="st5" d="M1442.8,765.2c0,3.5,2.6,6.7,5.7,7c3.2,0.3,5.7-2.3,5.7-5.8s-2.6-6.7-5.7-7.1
+            C1445.3,759,1442.8,761.6,1442.8,765.2z"/>
+        <path class="st5" d="M1442.8,784.7c0,3.5,2.6,6.7,5.7,7.1c3.2,0.4,5.7-2.2,5.7-5.8c0-3.6-2.6-6.8-5.7-7.1
+            C1445.3,778.6,1442.8,781.2,1442.8,784.7z"/>
+        <path class="st5" d="M1442.8,804.2c0,3.5,2.6,6.8,5.7,7.2c3.2,0.4,5.7-2.1,5.7-5.7c0-3.6-2.6-6.8-5.7-7.2
+            C1445.3,798.1,1442.8,800.7,1442.8,804.2z"/>
+        <path class="st5" d="M1442.8,823.8c0,3.5,2.6,6.8,5.7,7.2c3.2,0.4,5.7-2.1,5.7-5.7c0-3.6-2.6-6.8-5.7-7.2
+            C1445.3,817.7,1442.8,820.2,1442.8,823.8z"/>
+        <path d="M1686.9,621.5c0,5.7,4.7,10.5,10.5,10.7c5.8,0.2,10.6-4.4,10.6-10.1c0-5.8-4.7-10.6-10.6-10.7
+            C1691.6,611.2,1686.9,615.8,1686.9,621.5z"/>
+        <g>
+            
+                <!-- <image style="overflow:visible;opacity:0.76;" width="99" height="102" xlink:href="556BA676.png"  transform="matrix(1 0 0 1 1515 226)">
+            </image> -->
+            <g>
+                <path class="st6" :style="[active ? {'fill': neighbours[2].color} : {'fill': 'grey'}]" d="M1545.7,279.8c0,10.8,8.2,18.4,18.5,17c10.4-1.5,18.9-11.6,18.9-22.6s-8.5-18.6-18.9-16.9
+                    C1553.9,258.9,1545.7,269,1545.7,279.8z"/>
+                <path class="st3" d="M1545.7,279.8c0,10.8,8.2,18.4,18.5,17c10.4-1.5,18.9-11.6,18.9-22.6s-8.5-18.6-18.9-16.9
+                    C1553.9,258.9,1545.7,269,1545.7,279.8z"/>
+            </g>
+        </g>
+        <path class="st7" d="M1562,285.9c0,3.1,2.4,5.3,5.3,4.8c2.9-0.4,5.3-3.3,5.3-6.4c0-3.1-2.4-5.3-5.3-4.8
+            C1564.4,279.9,1562,282.8,1562,285.9z"/>
+    </g>
+    <g>
+        <linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="781.1729" y1="659.7817" x2="1266.7899" y2="659.7817">
+            <stop  offset="5.618000e-03" style="stop-color:#DEE3E6"/>
+            <stop  offset="0.2528" style="stop-color:#FFFDE5"/>
+            <stop  offset="0.3953" style="stop-color:#F0ECD8"/>
+            <stop  offset="0.5955" style="stop-color:#D6CDC1"/>
+            <stop  offset="0.7865" style="stop-color:#EDEDEE"/>
+            <stop  offset="1" style="stop-color:#D8D5BB"/>
+        </linearGradient>
+        <linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="781.1729" y1="659.7817" x2="1266.7899" y2="659.7817" style="opacity:0.5">
+            <stop  offset="5.618000e-03" style="stop-color:#DEE3E6"/>
+            <stop  offset="0.2528" style="stop-color:#FFFDE5"/>
+            <stop  offset="0.3953" style="stop-color:#F0ECD8"/>
+            <stop  offset="0.5955" style="stop-color:#D6CDC1"/>
+            <stop  offset="0.7865" style="stop-color:#EDEDEE"/>
+            <stop  offset="1" style="stop-color:#D8D5BB"/>
+        </linearGradient>
+        <polygon class="st13" points="1209.8,741.8 838.1,741.8 781.2,577.8 1266.8,577.8" :style="{'filter': 'drop-shadow(2mm 6mm 14mm '+[!active || paused ? 'black' : color]+')'}"/>
+        <!-- <polygon class="st3" points="1209.8,741.8 838.1,741.8 781.2,577.8 1266.8,577.8 			"/> -->
+        <g @click="$emit('choose', 'green'); color='green'" style="cursor: pointer">
+            <rect x="857.7" y="608.3" style="opacity: 0.8" class="st14" width="50" height="35.2"/>
+            <ellipse :class="[active ? 'st15' : 'st15']" cx="882.7" cy="609.2" rx="25" ry="17.9"/>
+            <ellipse v-if="!active || paused" class="stGreyOver" cx="882.7" cy="609.2" rx="25" ry="17.9"/>
+        </g>
+        <g @click="$emit('choose', 'blue'); color='blue'" style="cursor: pointer">
+            <rect x="951.9" y="607.7" style="opacity: 0.8" class="st16" width="50" height="35.2"/>
+            <ellipse :class="[active ? 'st16' : 'st16']" cx="976.9" cy="608.7" rx="25" ry="17.9"/>
+            <ellipse v-if="!active || paused" class="stGreyOver" cx="976.9" cy="608.7" rx="25" ry="17.9"/>
+        </g>
+        <g @click="$emit('choose', 'red'); color='red'" style="cursor: pointer">
+            <rect x="1046.1" y="607.2" style="opacity: 0.8" class="st17" width="50" height="35.2"/>
+            <ellipse :class="[active ? 'st17' : 'st17']" cx="1071.1" cy="608.1" rx="25" ry="17.9"/>
+            <ellipse v-if="!active || paused" class="stGreyOver" cx="1071.1" cy="608.1" rx="25" ry="17.9"/>
+        </g>
+        <g @click="$emit('choose', 'purple'); color='purple'" style="cursor: pointer">
+            <rect x="951.9" y="692.2" style="opacity: 0.8" class="st18" width="50" height="35.2"/>
+            <ellipse class="st18" cx="976.9" cy="693.1" rx="25" ry="17.9"/>
+            <ellipse v-if="!active || paused" class="stGreyOver" cx="976.9" cy="693.1" rx="25" ry="17.9"/>
+        </g>
+        <g  @click="$emit('choose', 'orange'); color='orange'" style="cursor: pointer">
+            <rect x="1046.1" y="691.6" style="opacity: 0.8" class="st19" width="50" height="35.2"/>
+            <ellipse class="st19" cx="1071.1" cy="692.6" rx="25" ry="17.9"/>
+            <ellipse v-if="!active || paused" class="stGreyOver" cx="1071.1" cy="692.6" rx="25" ry="17.9"/>
+        </g>
+        <g @click="$emit('choose', 'yellow'); color='yellow'" style="cursor: pointer">
+            <rect x="1140.3" y="606.6" style="opacity: 0.8" class="st20" width="50" height="35.2"/>
+            <ellipse class="st20" cx="1165.3" cy="607.6" rx="25" ry="17.9"/>
+            <ellipse v-if="!active || paused" class="stGreyOver" cx="1165.3" cy="607.6" rx="25" ry="17.9"/>
+        </g>
+        <g>
+            <g>
+                <polygon class="st21" points="1179.9,692 1179.4,692.9 1181.4,694.5 			"/>
+                <polygon class="st22" points="1191.1,711.4 1181.4,694.5 1179.4,692.9 1175.8,699.1 			"/>
+                <polygon class="st21" points="1172.2,705.4 1200.9,728.3 1191.1,711.4 1175.8,699.1 			"/>
+                <polygon class="st22" points="1168.6,711.6 1200.3,737 1205.9,737 1200.9,728.3 1172.2,705.4 			"/>
+                <polygon class="st21" points="1165,717.8 1188.9,737 1200.3,737 1168.6,711.6 			"/>
+                <polygon class="st22" points="1161.5,724.1 1177.6,737 1188.9,737 1165,717.8 			"/>
+                <polygon class="st21" points="1157.9,730.3 1166.2,737 1177.6,737 1161.5,724.1 			"/>
+                <polygon class="st22" points="1154.3,736.5 1154.8,737 1166.2,737 1157.9,730.3 			"/>
+                <polygon class="st21" points="1154,737 1154.8,737 1154.3,736.5 			"/>
+            </g>
+            <path class="st23" d="M1176.1,705.1l-12.5,22c-1.7,2.9,0.5,6.6,3.8,6.6h24.9c3.4,0,5.5-3.7,3.8-6.6l-12.5-22
+                C1182.1,702.1,1177.8,702.1,1176.1,705.1z"/>
+            <path class="st24" d="M1179.9,726.4L1179.9,726.4c-1.4,0-2.6-1.2-2.6-2.6V708c0-1.4,1.2-2.6,2.6-2.6l0,0c1.4,0,2.6,1.2,2.6,2.6
+                v15.8C1182.5,725.2,1181.4,726.4,1179.9,726.4z"/>
+            <circle class="st24" cx="1179.9" cy="730.3" r="2.6"/>
+        </g>
+        <g>
+            <g>
+                <polygon class="st21" points="867.9,691.3 867.4,692.2 869.4,693.7 			"/>
+                <polygon class="st22" points="879.1,710.7 869.4,693.7 867.4,692.2 863.8,698.4 			"/>
+                <polygon class="st21" points="860.2,704.6 888.9,727.6 879.1,710.7 863.8,698.4 			"/>
+                <polygon class="st22" points="856.6,710.9 888.3,736.2 893.9,736.2 888.9,727.6 860.2,704.6 			"/>
+                <polygon class="st21" points="853,717.1 876.9,736.2 888.3,736.2 856.6,710.9 			"/>
+                <polygon class="st22" points="849.5,723.3 865.6,736.2 876.9,736.2 853,717.1 			"/>
+                <polygon class="st21" points="845.9,729.5 854.2,736.2 865.6,736.2 849.5,723.3 			"/>
+                <polygon class="st22" points="842.3,735.8 842.8,736.2 854.2,736.2 845.9,729.5 			"/>
+                <polygon class="st21" points="842,736.2 842.8,736.2 842.3,735.8 			"/>
+            </g>
+            <path class="st23" d="M864.1,704.1l-12.8,22.3c-1.7,2.9,0.4,6.6,3.8,6.6h25.5c3.4,0,5.5-3.7,3.8-6.6l-12.8-22.3
+                C870.1,701.2,865.8,701.2,864.1,704.1z"/>
+            <path class="st24" d="M867.9,725.6L867.9,725.6c-1.4,0-2.6-1.2-2.6-2.6v-15.8c0-1.4,1.2-2.6,2.6-2.6l0,0c1.4,0,2.6,1.2,2.6,2.6
+                V723C870.5,724.5,869.4,725.6,867.9,725.6z"/>
+            <circle class="st24" cx="867.9" cy="729.5" r="2.6"/>
+        </g>
+    </g>
+    <text transform="matrix(0.7998 0.115 0 1 1471.111 836.3688)" class="st25 st26 st27" textLength="330px" lengthAdjust="spacingAndGlyphs" v-if="active">{{neighbours[2].user.username.length >= 16 ? neighbours[2].user.username.substring(0, 13)+'...' : neighbours[2].user.username}}</text>
+    <text transform="matrix(0.7998 0.115 0 1 1471.111 836.3688)" class="st25 st26 st27" textLength="330px" lengthAdjust="spacingAndGlyphs" v-else>XXXXXXX</text>
+<text transform="matrix(0.7525 -0.1387 0 1 352.031 888.0381)" class="st25 st26 st27" textLength="350px" lengthAdjust="spacingAndGlyphs" v-if="active">{{neighbours[0].user.username.length >= 16 ? neighbours[0].user.username.substring(0, 13)+'...' : neighbours[0].user.username}}</text>
+<text transform="matrix(0.7525 -0.1387 0 1 352.031 888.0381)" class="st25 st26 st27" textLength="350px" lengthAdjust="spacingAndGlyphs" v-else>XXXXXXX</text>
+<text transform="matrix(1 0 0 1 804.4852 557.4336)" class="st26 st28" textLength="430px" lengthAdjust="spacingAndGlyphs" v-if="active">{{neighbours[1].user.username.length >= 21 ? neighbours[1].user.username.substring(0, 17)+'...' : neighbours[1].user.username}}</text>
+<text transform="matrix(1 0 0 1 804.4852 557.4336)" class="st26 st28" textLength="430px" lengthAdjust="spacingAndGlyphs" v-else>{{uname ? uname : 'Username'}}</text>
+<text transform="matrix(1 0 0 1 920 1000)" class="st26 st28 st29" v-if="active">{{Math.floor(time/60) <= 9 ? '0'+Math.floor(time/60) : Math.floor(time/60)}}:{{Math.floor(time%60) <= 9 ? '0'+Math.floor(time%60) : Math.floor(time%60)}}</text>
+<text transform="matrix(1 0 0 1 920 1000)" class="st26 st28 st29" v-else>XX:XX</text>
+</svg>
+
+</template>
+
+<script>
+export default {
+    props:{
+        neighbours: Object,
+        time: Number,
+        active: Boolean,
+        uname: String,
+        paused: Boolean,
+    }, data() {
+        return {
+            color:'black'
+        }
+    }
+}
+</script>
+
+<style>
+@font-face {
+    font-family: sevenSegment;
+    src: url('../assets/Seven Segment.ttf');
+}
+.st0{clip-path:url(#SVGID_2_);}
+.st1{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+.st2{fill:#FFFF00;}
+.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+.st4{fill:url(#SVGID_5_);stroke:#000000;stroke-miterlimit:10;}
+.st5{fill:#333333;stroke:#000000;stroke-miterlimit:10;}
+.st6{fill:#FF00FF;}
+.st7{opacity:0.57;fill:#FFFFFF;}
+.st8{display:none;}
+.st9{display:inline;}
+.st10{fill:url(#SVGID_6_);stroke:#000000;stroke-miterlimit:10;}
+.st11{display:inline;opacity:0.57;fill:#FFFFFF;}
+.st12{fill:url(#SVGID_7_);stroke:#000000;stroke-miterlimit:10;}
+.st13{fill:url(#SVGID_8_);stroke:#000000;stroke-miterlimit:10;}
+.st14{opacity:0.8;fill:#008000;stroke:#000000;stroke-miterlimit:10;}
+.st15{fill:#008000;stroke:#000000;stroke-miterlimit:10;}
+.st16{fill:#0000FF;stroke:#000000;stroke-miterlimit:10;}
+.st17{fill:#FF0000;stroke:#000000;stroke-miterlimit:10;}
+.st18{fill:#800080;stroke:#000000;stroke-miterlimit:10;}
+.st19{fill:#FFA500;stroke:#000000;stroke-miterlimit:10;}
+.st20{fill:#FFFF00;stroke:#000000;stroke-miterlimit:10;}
+.st21{fill:#FFFF00;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+.st22{stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+.st23{fill:#FFFFFF;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+.st24{fill:#FF0000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+.st25{fill:#FFFFFF;}
+.st26{font-family:sevenSegment;}
+.st27{font-size:88.2765px;}
+.st28{font-size:102.218px;}
+.st29{fill:#FF0000;}
+.stGrey{fill: grey;stroke:#000000;stroke-miterlimit:10;}
+.stGreyOver{fill:url(#SVGID_9_); opacity: 0.8;}
+</style>

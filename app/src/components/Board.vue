@@ -1,28 +1,20 @@
 <template>
-  <div class="main-content">
+<div class="main-content">
     <div class="main-board">
-        <div v-for="p in data.game" :key="p.user.id" class="playerobj">
-            <p :style="[p.user.id != socket.id ? {'backgroundColor': p.color} : {'backgroundColor': 'grey'}]" class="led"></p>
-            {{p.user.username}}
+        <div class="mb-players">
+            <gamesvg :neighbours="neigh" @choose="guess" :time="time" :active="active" :paused="paused" :uname="uname"/>
         </div>
     </div>
-    <div class="leaderboard">
-        <table>
-            <tr v-for="p in players" :key="p">
-                <td>
-                    <u v-if="p.id == socket.id">{{p.username}}</u>
-                    <span v-else>{{p.username}}</span>
-                </td>
-                <td>0</td>
-            </tr>
-        </table>
-    </div>
-  </div>
+</div>
 </template>
 
 <script>
-// import Player from "./models/player.js"
+import {Player, allcolors} from "../models/player.js"
+import gamesvg from "./svg.vue"
 export default {
+    components:{
+        gamesvg,
+    },
     props:{
         io: {
             type: Object,
@@ -30,29 +22,49 @@ export default {
         },
         players: Object,
         data: Object,
+        uname: String,
     },
     data() {
         return {
             socket: this.io,
-            player = new Player()
+            player: null,
+            neigh: [],
+            allcolors: allcolors,
+            paused: false,
+            time: 0,
+            active: false,
+            interval: null,
         }
     },
     created(){
         this.socket.on("start-game", (data) => {
             console.log(data);
-
-            // this.gamedata = data;
-            // this.gameActive = true
+            this.player = new Player(this.socket.id, data);
+            console.log(this.socket.id)
+            console.log(this.player)
+            console.log(this.player.neighbors);
+            this.neigh = this.player.neighbors;
+            this.time = 5;
+            this.active = true;
+            this.interval = setInterval(this.countdown, 1000)
         });
-        // this.socket.on('message', text => {
-        //     this.messages.push(text);
-        // });
+        this.socket.on("end-game", () =>{
+            alert("alerta")
+        })
     },
     methods: {
-        // sendMessage() {
-        //     this.socket.emit('message', this.filter.clean(this.message));
-        //     this.message = '';
-        // }
+        guess(c){
+            this.player.guessColor(c)
+        },
+        countdown(){
+            if(this.time >= 1){
+            this.time = this.time - 1
+            }else{
+                clearInterval(this.interval)
+                this.paused = true
+            }
+            // console.log('count mf')
+        }
     }
 }
 </script>
@@ -61,17 +73,14 @@ export default {
 .main-content {
     display: flex;
     flex-direction: row;
+    width: 100%;
 }
 .main-board{
-    padding: 20px 30px 20px 30px;
-    height: 100px;
-    width: max-content;
     background: linear-gradient(to right, #f8b19581, #f6728081);
+}
+.mb-players{
     display: flex;
     justify-content: space-around;
-    /* align-content: space-between; */
-    min-width: 300px;
-    max-width: 70%;
 }
 .led{
     width:10px;
@@ -86,5 +95,12 @@ export default {
     align-items: center;
     height: 100%;
     width: 100%;
+}
+.colorswitch{
+    display: flex;
+    justify-content: space-around;
+}
+.colorswitch .led{
+    cursor: pointer;
 }
 </style>

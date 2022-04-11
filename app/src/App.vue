@@ -4,6 +4,7 @@
 import HelloWorld from "./components/HelloWorld.vue";
 import Chat from "./components/Chat.vue";
 import Board from "./components/Board.vue";
+import BoardDesign from "./components/Board_design.vue";
 import Username from "./components/Username.vue";
 
 </script>
@@ -11,7 +12,8 @@ import Username from "./components/Username.vue";
 <template>
   <div>
     <username :io="socket" v-if="!username" @joined="x => username = x"/>
-    <board :io="socket" :players="players" :data="gamedata"/>
+    <board :io="socket" :players="players" :data="gamedata" :uname="username"/>
+    <!-- <board-design :io="socket" :players="players" :data="gamedata" :uname="username"/> -->
     <chat v-if="username" :io="socket"/>
     <button v-if="admin && !gameActive" @click="startGameCall">Start</button>
   </div>
@@ -24,12 +26,13 @@ export default {
     HelloWorld,
     Chat,
     Board,
+    BoardDesign
   },
   data() {
     return {
       socket: null,
       players: {},
-      username: false,
+      username: null,
       admin: false,
       gameActive: false,
       gamedata: {}
@@ -70,6 +73,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

@@ -1,6 +1,8 @@
 const http = require('http').createServer(); //ev express verwenden
 const users = []
 var colors = ['green', 'blue', 'red', 'yellow', 'purple', 'orange']
+var interval;
+var time;
 
 const io = require('socket.io')(http, {
     cors: {origin: "*"}
@@ -55,7 +57,15 @@ io.on('connection', (socket) => {
             i++;
             game.push(u)
         });
+        time = 5;
         io.emit('start-game', {game, colors: selected})
+        interval = setInterval(() => {
+            if(time >= 1){time--;}
+            else{
+                clearInterval(interval);
+                io.emit('end-game', {})
+            }
+        }, 1000)
     })
 })
 
