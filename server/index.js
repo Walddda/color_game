@@ -3,6 +3,7 @@ const users = []
 var colors = ['green', 'blue', 'red', 'yellow', 'purple', 'orange']
 var interval;
 var time;
+var players = [];
 
 const io = require('socket.io')(http, {
     cors: {origin: "*"}
@@ -14,7 +15,7 @@ io.on('connection', (socket) => {
     socket.on('joined', (name) => {
         socket.username = name
         users.push({username: name, id: socket.id})
-        console.log(users)
+        // console.log(users)
 
         socket.join("game");
         socket.emit("message", { username: "admin", id: 'admin', message: `Welcome to the game` })
@@ -35,7 +36,7 @@ io.on('connection', (socket) => {
         var removeIndex = users.map(user => user.id).indexOf(socket.id);
         ~removeIndex && users.splice(removeIndex, 1);
 
-        console.log(users)
+        // console.log(users)
 
         if(socket.username){
             socket.broadcast.to("game").emit("message", { username: "admin", id:"admin", message: `${socket.username} left` })
@@ -44,6 +45,7 @@ io.on('connection', (socket) => {
     })
 
     socket.on('start-game-call', (data) => {
+        players = [] 
         console.log('starting . . .')
         var game = []
         const shuffled = colors.sort(() => 0.5 - Math.random());
@@ -57,8 +59,8 @@ io.on('connection', (socket) => {
             i++;
             game.push(u)
         });
-        time = 5;
-        io.emit('start-game', {game, colors: selected})
+        time = 60;
+        io.emit('start-game', {game, colors: selected, time})
         interval = setInterval(() => {
             if(time >= 1){time--;}
             else{
@@ -66,6 +68,30 @@ io.on('connection', (socket) => {
                 io.emit('end-game', {})
             }
         }, 1000)
+    })
+
+    socket.on('end-game-res', (data) => {
+        console.log('end player '+data.id)
+        clearInterval(interval);
+        // console.log(data)
+        players.push(data)
+        // console.log(players)
+        console.log(players.length)
+        console.log(data.sum)
+        if (players.length == data.sum) {
+            console.log('all players have guessed')
+            var result = []
+            console.log(players)
+            players.forEach(player => {
+                result.push({name: player.username, color: player.color, guess: player.guess} )
+
+                // if(player.guess == player.color){
+                //     result.push({name: player.username, color: player.color, guess: player.guess} )
+                // }
+            })  
+            console.log(result)
+            io.emit('end-game-fin', result)       
+        }
     })
 })
 

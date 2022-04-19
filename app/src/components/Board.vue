@@ -1,5 +1,6 @@
 <template>
 <div class="main-content">
+    <!-- {{player ? player.sum : ''}} -->
     <div class="main-board">
         <div class="mb-players">
             <gamesvg :neighbours="neigh" @choose="guess" :time="time" :active="active" :paused="paused" :uname="uname"/>
@@ -38,18 +39,21 @@ export default {
     },
     created(){
         this.socket.on("start-game", (data) => {
+            console.log('start:')
             console.log(data);
             this.player = new Player(this.socket.id, data);
             console.log(this.socket.id)
-            console.log(this.player)
-            console.log(this.player.neighbors);
+            // console.log(this.player)
+            // console.log(this.player.neighbors);
             this.neigh = this.player.neighbors;
-            this.time = 5;
+            this.time = data.time;
             this.active = true;
             this.interval = setInterval(this.countdown, 1000)
         });
         this.socket.on("end-game", () =>{
-            alert("alerta")
+            // alert("alerta")
+            // this.player.guessColor()
+            this.socket.emit('end-game-res', this.player)
         })
     },
     methods: {

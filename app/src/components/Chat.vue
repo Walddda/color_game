@@ -31,7 +31,7 @@ export default {
         // var Filter = require('bad-words');
         // this.filter = new Filter();
         // this.socket = io('ws://localhost:8080');
-        console.log(this.socket)
+        // console.log(this.socket)
         this.socket.on('message', text => {
             this.messages.push(text);
         });

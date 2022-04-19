@@ -6,6 +6,7 @@ import Chat from "./components/Chat.vue";
 import Board from "./components/Board.vue";
 import BoardDesign from "./components/Board_design.vue";
 import Username from "./components/Username.vue";
+import Result from "./components/Result.vue";
 
 </script>
 
@@ -13,6 +14,7 @@ import Username from "./components/Username.vue";
   <div>
     <username :io="socket" v-if="!username" @joined="x => username = x"/>
     <board :io="socket" :players="players" :data="gamedata" :uname="username"/>
+    <result v-if="results" :results="results" :io="socket"></result>
     <!-- <board-design :io="socket" :players="players" :data="gamedata" :uname="username"/> -->
     <chat v-if="username" :io="socket"/>
     <button v-if="admin && !gameActive" @click="startGameCall">Start</button>
@@ -26,7 +28,9 @@ export default {
     HelloWorld,
     Chat,
     Board,
-    BoardDesign
+    BoardDesign,
+    Result,
+    Username
   },
   data() {
     return {
@@ -35,7 +39,8 @@ export default {
       username: null,
       admin: false,
       gameActive: false,
-      gamedata: {}
+      gamedata: {},
+      results: null,
     }
   },
   created() {
@@ -44,17 +49,24 @@ export default {
       this.username = false
     });
     this.socket.on("roomData", (data) => {
-      console.log(data)
+      // console.log(data)
       this.players = data.users
-      console.log(this.players[0])
+      // console.log(this.players[0])
       if(this.players[0].id == this.socket.id){
         this.admin = true
       }
     });
     this.socket.on("start-game", (data) => {
-      console.log(data);
+      // console.log(data);
       this.gamedata = data;
       this.gameActive = true
+    });
+    this.socket.on("end-game-fin", (data) => {
+      console.log('ENDE!!!')
+        console.log(data)
+        this.results = data;
+        // this.active = false;
+        // clearInterval(this.interval);
     });
   },
   methods: {
